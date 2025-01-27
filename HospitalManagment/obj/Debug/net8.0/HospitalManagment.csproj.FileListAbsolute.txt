@@ -12,3 +12,18 @@ C:\Users\User\Desktop\HospitalManagment\HospitalManagment\obj\Debug\net8.0\refin
 C:\Users\User\Desktop\HospitalManagment\HospitalManagment\obj\Debug\net8.0\HospitalManagment.pdb
 C:\Users\User\Desktop\HospitalManagment\HospitalManagment\obj\Debug\net8.0\HospitalManagment.genruntimeconfig.cache
 C:\Users\User\Desktop\HospitalManagment\HospitalManagment\obj\Debug\net8.0\ref\HospitalManagment.dll
+D:\Рабочий стол\Doctor\HospitalManagment\bin\Debug\net8.0\HospitalManagment.exe
+D:\Рабочий стол\Doctor\HospitalManagment\bin\Debug\net8.0\HospitalManagment.deps.json
+D:\Рабочий стол\Doctor\HospitalManagment\bin\Debug\net8.0\HospitalManagment.runtimeconfig.json
+D:\Рабочий стол\Doctor\HospitalManagment\bin\Debug\net8.0\HospitalManagment.dll
+D:\Рабочий стол\Doctor\HospitalManagment\bin\Debug\net8.0\HospitalManagment.pdb
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.AssemblyInfoInputs.cache
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.AssemblyInfo.cs
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.sourcelink.json
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.dll
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\refint\HospitalManagment.dll
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.pdb
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\HospitalManagment.genruntimeconfig.cache
+D:\Рабочий стол\Doctor\HospitalManagment\obj\Debug\net8.0\ref\HospitalManagment.dll

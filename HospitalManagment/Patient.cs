@@ -28,18 +28,32 @@ public class Patient
         get=>_age;
         set=>_age=value;
     }
+    internal Session _session;
+    public Session Session 
+    {
+        get=>_session;
+        set=>_session=value;
+    }
     public Patient()
     {
         
     }
     public Patient(string firstname, string surname, string gender, int age, int id)
     {
-     
         _firstname = firstname;
         _surname = surname;
         _gender = gender;
         _age = age;
         Id = id;
+    }
+    public Patient(string firstname, string surname, string gender, int age, int id, Session session)
+    {
+        _firstname = firstname;
+        _surname = surname;
+        _gender = gender;
+        _age = age;
+        Id = id;
+        Session = session;
     }
     public override string ToString()
     {

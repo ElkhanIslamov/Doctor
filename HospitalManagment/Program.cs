@@ -16,17 +16,23 @@
                         Console.Write("Add Patient:");
                         dataContext.AddPatient();
                         break;
-
                     case "print patient":
-                        Console.Write("Add Patient:");
+                        dataContext.PrintPatient();
+                        break;
+                    case "print patients":
                         dataContext.PrintPatients();
                         break;
                     case "add doctor":
                         dataContext.AddDoctor();
                         break;
-
                     case "print doctor":
                         dataContext.PrintDoctors();
+                        break;
+                    case "add session":
+                        dataContext.AddSession();
+                        break;
+                    case "print session":
+                        dataContext.PrintSession();
                         break;
                 }
             } while (command!="exit");
